@@ -13,7 +13,7 @@ It is important to get regular feedback how our goals and results fit together.
 
 ### Why values?
 
-Understanding own values allow us make decision easier and focused on long term benefits. Explicitly outlining own values bring confidence in actions.
+Understanding own values allow us make decision easier and focused on long-term benefits. Explicitly outlining own values bring confidence in actions.
 The way we choose to behave reflects our values. Our values are extensions of ourselves.
 
 **Values -> Vision -> Goals -> Validation -> Requirements -> Actions**
@@ -29,7 +29,7 @@ Safe way to address values of other people is empathy. Presenting to someone con
 
 ### Do I have values?
 
-- [ ] I have list of my values (2-10) in written form.
+- [ ] I have a list of my values (2-10) in written form.
 - [ ] I have at least 3 values that drive my life.
 - [ ] I read list of my values at least once per week.
 - [ ] I reviewed my values at least once during last 12 month.
@@ -48,7 +48,7 @@ Safe way to address values of other people is empathy. Presenting to someone con
  - [ ] I have up-to-date plan for personal development for next 3 month.
  - [ ] I have up-to-date plan for personal development for next 3 years.
  - [ ] I could access history of my development plan and previously collected feedback.
- - [ ] I have list of goals. 
+ - [ ] I have a list of goals. 
  - [ ] I have plan to achieve my goals.
  - [ ] I track my progress towards my goals every week.
  - [ ] I have more people to care of, than people who care about me.

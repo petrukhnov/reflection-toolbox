@@ -1,6 +1,6 @@
 # Feedback
 
-##Sources fo feedback
+## Sources for feedback
 
 * Retrospectives
 * Reflection
@@ -21,8 +21,8 @@ During last 12 month:
  - [ ] I had 6 sessions with my coach.
  - [ ] I collected list with at least 5 failures, with exact dates.
  - [ ] I collected list with at least 5 achievements, with exact dates.
- - [ ] For current project I have list of at least 10 positive feelings.
- - [ ] For current project I have list of at least 10 negative feelings.
- - [ ] I asked team to provide feedback about one of my self improvement goals.
+ - [ ] For current project I have a list of at least 10 positive feelings.
+ - [ ] For current project I have a list of at least 10 negative feelings.
+ - [ ] I asked team to provide feedback about one of my self-improvement goals.
  
  
