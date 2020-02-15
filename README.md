@@ -5,6 +5,10 @@ This toolbox is collection of various tools and methods, that will help to under
 
 ### Content
 
+#### Personal development
+
+[Values, Goals, Stress](personal/readme.md)
+
 #### Software projects 
 
 [OMG Essence](software-project/omg-essence/readme.md)
