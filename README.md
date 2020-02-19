@@ -9,11 +9,16 @@ This toolbox is collection of various tools and methods, that will help to under
 
 [Values, Goals, Stress](personal/readme.md)
 
+#### Team
+
+[Retrospectives](team/cl-retro.md)
+
 #### Software projects 
 
 [OMG Essence](software-project/omg-essence/readme.md)
 
 [RAD risks](software-project/rad-risks/readme.md)
+
 
 
 
