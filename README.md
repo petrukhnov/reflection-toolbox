@@ -21,6 +21,7 @@ This toolbox is collection of various tools and methods, that will help to under
 
 [Project state checklist](software-project/cl-project-state.md)
 
+[Project handover](software-project/handover/readme.md)
 
 
 
