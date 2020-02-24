@@ -19,6 +19,7 @@ This toolbox is collection of various tools and methods, that will help to under
 
 [RAD risks](software-project/rad-risks/readme.md)
 
+[Project state checklist](software-project/cl-project-state.md)
 
 
 
