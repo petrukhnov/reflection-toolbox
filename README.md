@@ -13,6 +13,10 @@ This toolbox is collection of various tools and methods, that will help to under
 
 [Retrospectives](team/cl-retro.md)
 
+#### People management
+
+[People manager toolkit (WIP)](people-management/readme.md)
+
 #### Software projects 
 
 [OMG Essence](software-project/omg-essence/readme.md)
