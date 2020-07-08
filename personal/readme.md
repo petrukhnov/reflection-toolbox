@@ -73,7 +73,11 @@ source: https://osf.io/mwtrb/
 [pdf copy v1.0](self-manage-motivation.pdf) 
 
 
+## learning
 
+Many factors may affect our ability to learn at a certain point of time. Checklist below helps to evaluate our current state, and may give some hints how to make obtaining new knowledge and skills more efficient.
+
+[cl-learning-efficiency.md](cl-learning-efficiency.md) 
  
  
  
