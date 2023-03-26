@@ -27,5 +27,6 @@ This toolbox is collection of various tools and methods, that will help to under
 
 [Project handover](software-project/handover/readme.md)
 
+[Technology radar](software-project/technology-radar/readme.md)
 
 
