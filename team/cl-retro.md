@@ -19,8 +19,8 @@ This checklist is suitable for recurrent iterations, that have exactly same leng
 - [ ] Every participant was not interrupted at least once.
 - [ ] Every participant was able to see same working area for retrospective.
 - [ ] Success of the actions from previous retrospective was validated.
-- [ ] Each items is clearly defined as subjective or objective.
-- [ ] None of previous retrospectives was shared to outside of the team.
+- [ ] Each item is clearly defined as subjective or objective.
+- [ ] None of previous retrospectives was shared to outside the team.
 - [ ] Retrospective was done in less than 1 hour.
 - [ ] Nobody was talking longer than 3 minutes in one go.
 - [ ] Top5 items were identified and prioritized during review.

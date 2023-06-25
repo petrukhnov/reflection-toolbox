@@ -15,8 +15,8 @@ During last 12 month:
  
  - [ ] Current project had at least 4 retrospectives.
  - [ ] I talked with my supervisor about my performance at least 2 times.
- - [ ] My colleagues told me 10 things that you should continue doing.
- - [ ] My colleagues told me 3 things that you should stop/avoid doing.
+ - [ ] My colleagues told me 10 things that I should continue doing.
+ - [ ] My colleagues told me 3 things that I should stop/avoid doing.
  - [ ] I have coach.
  - [ ] I had 6 sessions with my coach.
  - [ ] I collected list with at least 5 failures, with exact dates.

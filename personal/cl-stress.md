@@ -1,6 +1,6 @@
 # Stress
 
-Modern world is changing very fast. We have to adopt for many of these changes. Every time we adopt, we spend energy and it increase our stress level.
+Modern world is changing very fast. We have to adopt for many of these changes. Every time we adopt, we spend energy, so it increases our stress level.
 
 In the past, there were always time to rest and recover. First, it were years, then months. Now we may not have a full day to recover from changes.   
 
@@ -21,8 +21,8 @@ https://www.nhs.uk/conditions/stress-anxiety-depression/mood-self-assessment/
  
  - [ ] Last month I was less stressed than 6 month ago.
  - [ ] Last month I was less stressed than 3 years ago.
- - [ ] Last week I did al least one action to reduce my stress.
- - [ ] I have a list of actions that could temporary reduce my stress, and these actions are in categories of: 5 minutes, 30 minutes, 6 hours, 1 week.
+ - [ ] Last week I did at least one action to reduce my stress.
+ - [ ] I have a list of actions that could temporarily reduce my stress, and these actions are in categories of: 5 minutes, 30 minutes, 6 hours, 1 week.
  - [ ] I don't have problems with sleep.
  - [ ] I do enough physical activity to not gain weight.
  - [ ] I think about problems less than 2 hours per day.
@@ -32,6 +32,6 @@ https://www.nhs.uk/conditions/stress-anxiety-depression/mood-self-assessment/
  - [ ] I wrote down top 5 sources for emotional disturbance at least 2 times during last month.
  - [ ] I laughed out loud at least 3 times during last week.
  - [ ] I smile at least every day.
- - [ ] I have a list of actions that I afraid to do. 
+ - [ ] I have a list of actions that I'm afraid to do. 
  
  

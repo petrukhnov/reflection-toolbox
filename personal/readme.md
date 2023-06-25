@@ -1,7 +1,7 @@
 
 # Personal development
 
-By creating a better version of yourself on a daily basis, we get better opportunities, interesting challenges and feeling of success.
+By creating a better version of ourselves on a daily basis, we get better opportunities, interesting challenges and feeling of success.
 
 It is important to get regular feedback how our goals and results fit together.
 
@@ -36,11 +36,11 @@ Safe way to address values of other people is empathy. Presenting to someone con
 - [ ] During last 12 month I did at least 12 actions that match to my values, and directly contribute to one or more goals.
 - [ ] For each of my values I could name something that match to value definition, but is not part of my values. 
 - [ ] My values make me feel good about myself.
-- [ ] I discussed every my value with someone during last 6 months.
+- [ ] I discussed each of my value with someone during last 6 months.
 - [ ] For each of my values, I know someone who share same value.
 - [ ] I could name 3 people who have different values.
 - [ ] I'm proud of at least 10 of my actions during last 3 month, because they are aligned with my values.
-- [ ] Every my value is constructive, controllable and evidence-based.
+- [ ] Each of my values is constructive, controllable and evidence-based.
  
  
 ### Do I know where how to advance in my life?
@@ -56,7 +56,9 @@ Safe way to address values of other people is empathy. Presenting to someone con
 
 
 
- 
+## Feelings and Needs
+
+[cl-feelings-needs.md](cl-feelings-needs.md)
  
 ## Stress
 
@@ -64,9 +66,9 @@ Safe way to address values of other people is empathy. Presenting to someone con
  
 ### self-manage motivation techniques
 
-The compendium of self-enactable techniques to change and self manage motivation and behaviour (v1.0)
+The compendium of self-enactable techniques to change and self-manage motivation and behaviour (v1.0)
 
-It lists techniques to help you change or self-manage your motivation or behaviour. 
+It lists techniques to help us change or self-manage our motivation or behaviour. 
 
 source: https://osf.io/mwtrb/
  
